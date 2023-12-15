@@ -2,7 +2,7 @@
 
 ## HLD
 
-This high-level design shows a scalable banking service system with user registration, debit card linkage, bank connections, fraud detection, notification.
+This high-level design shows a scalable banking service system with user registration, debit card connection, bank connection, fraud detection, notification.
 
 - RegisterService: Allows new users to register.
 - DebitCardConnectionService: Manages the connection of debit cards with user accounts.
